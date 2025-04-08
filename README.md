@@ -3,14 +3,14 @@ The overall project is to scrape repositories like arXiv for 2024 papers and cre
 The evaluation will use only Agents, with no human in the loop. Create a "competition" in pairs, similar to a league structure.
 
 Some related work:
-https://sakana.ai/ai-scientist-first-publication/
-https://agentlaboratory.github.io/
-https://blog.iclr.cc/2024/10/09/iclr2025-assisting-reviewers/
-https://github.com/IntologyAI/Zochi
-https://www.sigarch.org/sigarch-tcca-best-practices-resources/
-https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/reviewing.html
-https://courses.cs.washington.edu/courses/cse551/17wi/assignments/review-writing.pdf
-https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf
+* https://sakana.ai/ai-scientist-first-publication/
+* https://agentlaboratory.github.io/
+* https://blog.iclr.cc/2024/10/09/iclr2025-assisting-reviewers/
+* https://github.com/IntologyAI/Zochi
+* https://www.sigarch.org/sigarch-tcca-best-practices-resources/
+* https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/reviewing.html
+* https://courses.cs.washington.edu/courses/cse551/17wi/assignments/review-writing.pdf
+* https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/CSD-89-511.pdf
 
 **Clustering**
 Objective: Create different clustering mechanisms using references from published papers so that papers can be grouped for competition or leagues (Architecture vs. Programming vs. AI vs. others)
